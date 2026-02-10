@@ -1,0 +1,15 @@
+public class ObjVehiculo {
+
+    private String marca;
+    private String tipo;
+    private int cilindraje;
+    private double pagoAnterior;
+    private double pagoActual;
+    private int numeroCelda;
+        
+
+
+    
+
+
+}
